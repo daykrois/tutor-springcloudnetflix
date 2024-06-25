@@ -38,4 +38,4 @@ server.port=8001
 #注册地址
 #eureka.client.service-url.defaultZone=http://localhost:8761/eureka/
 ```
-4. 运行项目，访问localhost:8761可以发现Instances currently registered with Eureka 这里的实例信息有实例TUTOR02-EUREKA-CLIENT
+4. 运行注册中心，在运行客户端项目运行项目，访问localhost:8761可以发现Instances currently registered with Eureka 这里的实例信息有实例TUTOR02-EUREKA-CLIENT
