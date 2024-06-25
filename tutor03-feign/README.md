@@ -66,7 +66,7 @@ public class FeignController {
 
 }
 ```
-6. 运行项目
+6. 启动tutor01和tutor02项目，运行本项目，访问localhost:8002 
 
 
 
